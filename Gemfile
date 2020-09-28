@@ -29,6 +29,7 @@ gem 'moonrope'
 gem 'jwt'
 gem 'acme-client'
 gem 'highline', :require => false
+gem 'tzinfo-data'
 
 group :development, :assets do
   gem 'sass-rails', '~> 5.0'
